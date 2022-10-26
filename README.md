@@ -36,6 +36,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 
 ## Mock-Up
+![Screenshot](https://user-images.githubusercontent.com/107980867/197982428-19f900ba-ccaa-4aaf-9b3e-3620538f210c.jpg)
 
 
 
