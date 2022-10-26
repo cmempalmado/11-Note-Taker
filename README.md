@@ -39,6 +39,10 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 
 
+## Link of Deployed Application
+https://note-taker-mod-11.herokuapp.com/
+
+
 - - -
 Copyright © [2022] [Christian Empalmado]
 
